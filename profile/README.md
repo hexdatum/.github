@@ -2,7 +2,7 @@
 
 > From data, to information, to knowledge, we build intelligent information systems for linking, ranking, and searching.
 
-<a href="https://hexdatum.com" title="Hex Datum OÜ website" target="_blank"><img width="320" alt="Hex Datum OÜ logo" src="logos/hexdatum-logo.png" /></a>
+<a href="https://hexdatum.com" title="Hex Datum OÜ website" target="_blank"><img width="320" alt="Hex Datum OÜ logo" src="profile/logos/hexdatum-logo.png" /></a>
 
 ## About Us
 
@@ -29,7 +29,7 @@ E-mail: info@hexdatum.com
 
 ### Indicator Dash
 
-<a href="https://indicatordash.app" title="Indicator Dash" target="_blank"><img width="18" align="left" src="logos/indicator_dash-logo.png" /></a>
+<a href="https://indicatordash.app" title="Indicator Dash" target="_blank"><img width="18" align="left" alt="Indicator Dash logo" src="profile/logos/indicator_dash-logo.png" /></a>
 
 https://indicatordash.app
 
@@ -44,14 +44,14 @@ We also collect, categorize, classify, and index crypto news articles, extractin
 
 #### Screenshots
 
-<img width="250" align="left" title="Coin favorites" alt="Coin favorites" src="screenshots/indicator_dash-coins-favorites-1x1.png" />
+<img width="250" align="left" title="Coin favorites" alt="Coin favorites" src="profile/screenshots/indicator_dash-coins-favorites-1x1.png" />
 
-<img width="250" align="left" title="Indicators" alt="Indicators" src="screenshots/indicator_dash-indicators-1x1.png" />
+<img width="250" align="left" title="Indicators" alt="Indicators" src="profile/screenshots/indicator_dash-indicators-1x1.png" />
 
-<img width="250" title="Pair price and signals" alt="Pair price and signals" src="screenshots/indicator_dash-pair_price_and_signals-1x1.png" />
+<img width="250" title="Pair price and signals" alt="Pair price and signals" src="profile/screenshots/indicator_dash-pair_price_and_signals-1x1.png" />
 
-<img width="250" align="left" title="Crypto entity context" alt="Entity network" src="screenshots/indicator_dash-knowledge_graph-ego_network-1x1.png" />
+<img width="250" align="left" title="Crypto entity context" alt="Entity network" src="profile/screenshots/indicator_dash-knowledge_graph-ego_network-1x1.png" />
 
-<img width="250" align="left" title="Personalized pair ranker" alt="Personalized pair ranker" src="screenshots/indicator_dash-indicator_ranker-1x1.png" />
+<img width="250" align="left" title="Personalized pair ranker" alt="Personalized pair ranker" src="profile/screenshots/indicator_dash-indicator_ranker-1x1.png" />
 
-<img width="250" align="left" title="News search and filter by sentiment" alt="News search and filter by sentiment" src="screenshots/indicator_dash-ranked_news_sentiment-1x1.png" />
+<img width="250" align="left" title="News search and filter by sentiment" alt="News search and filter by sentiment" src="profile/screenshots/indicator_dash-ranked_news_sentiment-1x1.png" />
